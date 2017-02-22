@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UIControls</string>
+
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="check1">Check 1</string>
+    <string name="check2">Check 2</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="switch_text">Switch text</string>
+
+</resources>
